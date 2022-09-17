@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 560 560" style="enable-background:new 0 0 560 560;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#C1272D;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;stroke:#C1272D;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#C1272D;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="Scope">
+	<circle class="st0" cx="276.03" cy="295.95" r="165.94"/>
+	<g>
+		<g>
+			<line class="st1" x1="161.46" y1="406.83" x2="188.4" y2="380.53"/>
+		</g>
+		<g>
+			<line class="st1" x1="164.18" y1="179.04" x2="190.49" y2="205.98"/>
+		</g>
+		<g>
+			<line class="st1" x1="391.98" y1="181.77" x2="365.04" y2="208.07"/>
+		</g>
+		<g>
+			<line class="st1" x1="389.25" y1="409.56" x2="362.95" y2="382.62"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line class="st2" x1="193.12" y1="375.88" x2="209.86" y2="359.55"/>
+		</g>
+		<g>
+			<line class="st2" x1="195.13" y1="210.7" x2="211.47" y2="227.44"/>
+		</g>
+		<g>
+			<line class="st2" x1="360.32" y1="212.71" x2="343.58" y2="229.05"/>
+		</g>
+		<g>
+			<line class="st2" x1="358.3" y1="377.9" x2="341.97" y2="361.16"/>
+		</g>
+	</g>
+</g>
+<g id="Outer_Wings">
+	<path class="st3" d="M298.37,239.13c48.57,8.05,75.64,27.64,88.08,38.48c20.88,18.21,21.17,29.78,20.82,34.14
+		c-0.68,8.7-6.13,17.66-14,21.85c-18.91,10.07-46.07-10.43-56.67-18.43c-10.76-8.12-31.6-26.67-44.72-62.29"/>
+	<path class="st3" d="M253.1,240.46c-48.57,8.05-75.64,27.64-88.08,38.48c-20.88,18.21-21.17,29.78-20.82,34.14
+		c0.68,8.7,6.13,17.66,14,21.85c18.91,10.07,46.07-10.43,56.67-18.43c10.76-8.12,31.6-26.67,44.72-62.29"/>
+</g>
+<g id="Inner_Wings">
+	<path class="st3" d="M276.34,283.8c-0.24,9.92-2.23,41.09-25.08,60.77c-5.47,4.71-18.49,15.92-32.77,12.63
+		c-0.16-0.04-0.4-0.09-0.7-0.17c-5.97-1.54-10.97-5.88-13.3-9.73c-4.1-6.79-2.93-17.17,3.66-25.16"/>
+	<path class="st3" d="M276.34,283.8c0.24,9.92,2.23,41.09,25.08,60.77c5.47,4.71,18.49,15.92,32.77,12.63
+		c2.57-0.59,10.15-2.85,14-9.9c4.34-7.95,2.31-19.06-5.43-27.7"/>
+</g>
+<g id="Antenna__x2B__Head">
+	<line class="st4" x1="235.94" y1="188.16" x2="266.2" y2="222.75"/>
+	<polygon class="st5" points="275.98,215.65 298.37,239.13 254.31,239.13 	"/>
+	<line class="st4" x1="285.91" y1="222.75" x2="315.07" y2="187.22"/>
+	<path class="st3" d="M254.31,239.13c0.09,0.19,0.18,0.39,0.27,0.58c2.07,4.39,4.15,8.78,6.22,13.17
+		c5.18,10.97,10.36,21.95,15.54,32.92c7.34-15.56,14.69-31.12,22.03-46.68"/>
+</g>
+</svg>
